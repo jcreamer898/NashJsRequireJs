@@ -10,8 +10,3 @@ require.config({
 if (!window.requireTestMode) {
   require(['main'], function(){ });
 }
-
-
-
-
-
